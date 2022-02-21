@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class App30 {
     public static void main(String[] args) throws Exception {
+        System.out.print("Nhap so n: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
